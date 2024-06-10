@@ -70,27 +70,12 @@ THEN I expect to see 5 products in the resulting table
 
 ```
 
-# Getting Started with the React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-Install all packages required for project
-
-### `npm run start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Getting Started
+Available scripts
+- `npm install` to install the necessary dependencies
+- `npm start` to run the API and web servers
+- `npm test` to run unit tests  
+- `npm uac` to run user acceptance tests
+- `npm lint` to check formatting with eslint
+- `npm prettier` to check formatting with prettier
+- `npm tsc` to check formatting with Typescript
